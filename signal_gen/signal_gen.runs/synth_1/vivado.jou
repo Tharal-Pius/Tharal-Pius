@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sat Sep  9 08:51:52 2023
+# Process ID: 8340
+# Current directory: C:/Users/thara/Documents/signal_gen/signal_gen.runs/synth_1
+# Command line: vivado.exe -log Signal_gen_tb.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Signal_gen_tb.tcl
+# Log file: C:/Users/thara/Documents/signal_gen/signal_gen.runs/synth_1/Signal_gen_tb.vds
+# Journal file: C:/Users/thara/Documents/signal_gen/signal_gen.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Signal_gen_tb.tcl -notrace
